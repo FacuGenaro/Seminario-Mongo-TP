@@ -1,0 +1,30 @@
+//Productos individuales para insertar
+
+{
+    "Nombre": "Yerba",
+    "Precio": 15
+}
+
+{
+    "Nombre": "Gaseosa",
+    "Precio": 25
+}
+
+{
+    "Nombre": "Helado",
+    "Precio": 35
+}
+//ventas:
+//Las ventas se generan en base a los datos que se pasen en un array de Json 
+{
+    "Productos": [
+        {
+            "Nombre": "Gaseosa",
+            "Precio": 25
+        },
+        {
+            "Nombre": "Magdalenas",
+            "Precio": 25
+        }
+    ]
+}
